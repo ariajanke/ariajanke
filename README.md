@@ -1,6 +1,6 @@
 Short Term Goals
 ================
 
-- draft level designs
-- backdrop image layers
-- draft night time stars
+- untitled-runner-game: add events (death and level completion)
+- blockgames: clean up the UI and only then maybe "fancy" it up
+- draft some ideas for presenting this ~~crap~~ stuff
