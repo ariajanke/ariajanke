@@ -1,10 +1,15 @@
-# Development Ideas
+# My Projects (still a bit like a TODO list I'm afraid)
 
+## mag-feeder
+- Skills
+  - JavaScript
+  - CSS
+## AABB Library
+- Skills
+  - Computational Geometry
+  - C++(17) Virtual inheritance! :D
 ## untitled-runner-game
-- add events (death and level completion)
 ## blockgames
-- controller config graphics (simplify)
-- score board for the Quadnomials derivative
-## ...and beyond
-- need new web project ideas (an online recipe thing?)
-- How can I tie this to some semblence of vocational goals?
+- just need it presentable
+## ASGL
+- Just some demos
