@@ -1,5 +1,5 @@
 # About Me
-I am a graduate in Computer Science LS&A from the University of Michigan. I am working part time, and practicing my skills with web and applications development. All of this leads to my aspirations for full time work in this field.
+I am a graduate in Computer Science LS&A from the University of Michigan. I am working part time, and practicing my skills with web and applications development. I am looking for work as a full time applications developer.
 
 # My Projects
 
