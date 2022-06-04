@@ -4,7 +4,7 @@ I am a graduate in Computer Science LS&A from the University of Michigan. I am w
 # My Projects
 
 ### RESTful Recipes API
-This API computes the nutrition facts of recipes based on their respective ingredients. It even has features to process nested ingredients. You can read a transcript of a demo of this API in the "subproject's" [README](https://github.com/ariajanke/ofdb-sample/blob/main/recipe-api/README.md#user-content-demo).
+This is a part of the "ofdb-sample" project. This API computes the nutrition facts of recipes based on their respective ingredients. It even has features to process nested ingredients. You can read a transcript of a demo of this API in the "subproject's" [README](https://github.com/ariajanke/ofdb-sample/blob/main/recipe-api/README.md#user-content-demo).
 
 ### AABB Physics Library
 Axis Aligned Bounding Box physics library. Physics can be very tricky to implement (especially from "scratch"). Here I manage to get by using knowledge with floating points, and learn a bit about WASM along the way.
