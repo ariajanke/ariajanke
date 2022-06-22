@@ -1,6 +1,9 @@
 # About Me
 I am a graduate in Computer Science LS&A from the University of Michigan. I am working part time, and practicing my skills with web and applications development. I am looking for work as a full time applications developer.
 
+# Current Work
+Presently I'm working on a website for someone. Unless it's ready for publication, or they permit it, it will not appear here.
+
 # My Projects
 
 ### RESTful Recipes API
