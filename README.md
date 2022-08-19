@@ -1,10 +1,7 @@
 # About Me
-I am a graduate in Computer Science LS&A from the University of Michigan. I am working part time, and practicing my skills with web and applications development. I am looking for work as a full time applications developer.
+I am a graduate in Computer Science LS&A from the University of Michigan. I am presently a very happy new hire in an apprenticeship with the Pesto Group. I still, on ocassion do additional work for a someone's personal website.
 
-# Current Work
-Presently I'm working on a website for someone. Unless it's ready for publication, or they permit it, it will not appear here.
-
-# My Projects
+# Past Projects
 
 ### RESTful Recipes API
 This is a part of the "ofdb-sample" project. This API computes the nutrition facts of recipes based on their respective ingredients. It even has features to process nested ingredients. You can read a transcript of a demo of this API in the "subproject's" [README](https://github.com/ariajanke/ofdb-sample/blob/main/recipe-api/README.md#user-content-demo).
