@@ -1,5 +1,5 @@
 # About Me
-I am a graduate in Computer Science LS&A from the University of Michigan. I am presently a very happy new hire in an apprenticeship with the Pesto Group. I still, on ocassion do additional work for a someone's personal website.
+I have a picrew avatar *AND* a computer science degree! Which is from the school of the LS&A at the University of Michigan. I am presently a very happy new hire in an apprenticeship with the Pesto Group. I've been busy learning new tools/frameworks/languages with the wonderful people at this company.
 
 # Past Projects
 
